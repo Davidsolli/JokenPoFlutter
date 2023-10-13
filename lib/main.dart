@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'Jogo.dart';
 
 void main() {
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     home: Jogo(),
   ));
 }
